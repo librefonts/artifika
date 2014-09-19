@@ -1,0 +1,32 @@
+{
+  "name": "Artifika",
+  "designer": "Cyreal",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Serif",
+  "size": 69110,
+  "fonts": [
+    {
+      "name": "Artifika",
+      "style": "normal",
+      "weight": 500,
+      "filename": "Artifika-Medium.ttf",
+      "postScriptName": "Artifika-Medium",
+      "fullName": "Artifika Medium",
+      "copyright": "Copyright (c) 2011 by Yulya Zhdanova | Cyreal. All rights reserved."
+    },
+    {
+      "name": "Artifika",
+      "style": "normal",
+      "weight": 500,
+      "filename": "Artifika-Regular.ttf",
+      "postScriptName": "Artifika-Medium",
+      "fullName": "Artifika Medium",
+      "copyright": "Copyright (c) 2010 by Yulya Zhdanova. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2011-06-01"
+}
